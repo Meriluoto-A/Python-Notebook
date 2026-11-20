@@ -1,5 +1,5 @@
 # Python Notebooks 
-This repository contains Python notebooks developed to practise Python programming, data visualisation, and decision-support frameworks. 
+This repository contains small practice projects and notebooks that help me develop skills in programming, data visualisation, and analytical problem-solving. The goal is simple: keep learning, keep building, and gradually turn curiosity into capability :) 
 
 ## Projects 
 
